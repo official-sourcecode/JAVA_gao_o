@@ -1,0 +1,6 @@
+# JAVA高端新版双融/大宗抢筹/沪深京港美股票/新股/挂单/双融交易/策略融资
+
+后端采用Java Springboot进行开发 带有止损止盈<br>以及挂单<br><br>功能 自动数据抓取更新，监控数据，分布式事务，分库分表，模块之间耦合低，Alibaba核心组件原理，性能优化，数据存储mysql和缓存redis均采用池化技术，确保数据和一致性 采用SpringBoot，SpringCloudAlibaba，Mybatis-Plus，SpringSecurity，maven,Git，Dubbo，Nginx，Springmvc，SpringData，Mysql，Redis 进行数据存储与行情采集和业务实现 做到了兼顾速度的同时行情全免费使用<br>包含港股 美股 沪深京A股<br>整个项目使用骨架屏<br>加载更加丝滑 开启震动反馈<br>与多语言<br>在数据的处理上做了很大的优化提示准确，数据响应拦截更快我们给这套架构提供了强大的安全策略反爬虫<br>前端采用vue进行开发 响应式布局保证兼顾每一台设备<br>功能模块化<br>友好的维护性和二开性后台与代理<br>后台采用 Ant-Design  进行开发 整个架构清晰支持服务端渲染采用响应式布局手机端也可以轻松浏览UI风格更加统一视觉设计感突出确保了系统的稳定正常运转 采用功能模块化 大大提高了项目的可维护性<br>和可二开性<br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/q6Mh5" style="color: red;">https://mega-file.org/q6Mh5</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
